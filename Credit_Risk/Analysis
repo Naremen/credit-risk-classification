@@ -12,4 +12,5 @@ Overview of Project
     -The models ability to predict both healthy and high-risk loans was at 99 percent precision.
 
   Summary:
+    -In conclusion I would recommend going with the second model.
     -Overall the second model provided the highest overall accuracy of the two. While the first model was more precise when it came to its ability to predict healthy loans, the second model outperformed it by 12 percent when predicting high-risk loans.
