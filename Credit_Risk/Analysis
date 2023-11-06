@@ -2,4 +2,14 @@ Overview of Project
   Purpose of the Analysis: The purpose of this analysis is to evaluate a model based upon loan risk. The dataset being used has historical lending activity from a peer-to-peer lending services company.
 
   -Model 1:
-    -
+    -In the first model, I created a Logistic Regression Model with the origional dataset.
+    -The overall accuracy of the model was 94.4 percent.
+    -The models ability to predict healthy loans was 100 percent, while its precission to predict high-risk loans was 87 percent.
+
+  -Model 2:
+    -In the second model, I created a Logistic Regression Model withe the resampled training data.
+    -The overall accuracy of the model was 99.4 percent.
+    -The models ability to predict both healthy and high-risk loans was at 99 percent precision.
+
+  Summary:
+    -Overall the second model provided the highest overall accuracy of the two. While the first model was more precise when it came to its ability to predict healthy loans, the second model outperformed it by 12 percent when predicting high-risk loans.
